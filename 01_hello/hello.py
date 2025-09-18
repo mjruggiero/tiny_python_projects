@@ -3,6 +3,7 @@
 
 import argparse
 
+
 def get_args():
     """Get the command-line arguments"""
     parser = argparse.ArgumentParser(description='Say hello')
